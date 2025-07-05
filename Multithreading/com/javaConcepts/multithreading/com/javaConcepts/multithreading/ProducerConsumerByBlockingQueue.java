@@ -1,4 +1,3 @@
-package com.javaConcepts.multithreading;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingDeque;

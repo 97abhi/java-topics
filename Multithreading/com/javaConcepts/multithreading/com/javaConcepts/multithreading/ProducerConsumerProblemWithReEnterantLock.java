@@ -1,4 +1,4 @@
-package com.javaConcepts.multithreading;
+
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

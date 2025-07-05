@@ -1,4 +1,4 @@
-package com.java8;
+
 /*
  * Functional Interface
  * 

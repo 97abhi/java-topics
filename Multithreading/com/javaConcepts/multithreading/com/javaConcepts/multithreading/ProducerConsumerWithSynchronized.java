@@ -1,4 +1,4 @@
-package com.javaConcepts.multithreading;
+
 
 class ProducerConsumerWithSynchronized {
 
